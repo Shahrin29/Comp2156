@@ -1,2 +1,6 @@
-\#### COMP2156-Developer Operations / 100628296 and Shahrin Rakib
 
+
+# COMP2156 - Developer Operations
+
+Student ID: 100628296
+Name: Shahrin Rakib
